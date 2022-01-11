@@ -11,3 +11,6 @@ $ git add [your github username].txt
 $ git commit -m "Note my attendance" [your github username].txt
 $ git push origin main
 ```
+
+Be sure to change `[your github username]` in the above instructions to your actual
+GitHub username.
